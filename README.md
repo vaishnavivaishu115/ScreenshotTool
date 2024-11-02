@@ -1,6 +1,6 @@
  Screenshot Tool
 
-This is a simple tool that automates screenshot capture and saves the images directly to a Word document. Useful for testers, document creators, 
+This is a simple tool that i developed to reduce my manaul effort in my company this automates screenshot capture and saves the images directly to a Word document. Useful for testers, document creators, 
 and anyone who frequently needs to record visual content.
 
 Features
